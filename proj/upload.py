@@ -7,8 +7,8 @@ import sys
 class Upload:
     def upload(sourceDir, destDir):
     # Fill these in - you get them when you sign up for S3
-       AWS_ACCESS_KEY_ID = 'AKIAIMVB7CGPOS6XN53A'
-       AWS_ACCESS_KEY_SECRET = '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'
+       AWS_ACCESS_KEY_ID = ''
+       AWS_ACCESS_KEY_SECRET = ''
        # Fill in info on data to upload
        # destination bucket name
        bucket_name = 'bia660-crawler'
